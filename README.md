@@ -5,4 +5,4 @@ QuackSpy descubre subdominios de una lista de dominios que le pases, checkea que
 ## Uso: ##
 `pip install -r requirements.txt`
 
-`python3 QuackSpy.py lista.txt`
+`python3 QuackSpy.py -f lista.txt`
